@@ -1,0 +1,21 @@
+{
+    "name": "reservation-system",
+    "version": "1.0.0",
+    "description": "Reservation system for displaying reservations from the last week",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "mysql": "^2.18.1",
+        "mysql2": "^3.13.0"
+    },
+    "devDependencies": {
+        "eslint": "^9.22.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
