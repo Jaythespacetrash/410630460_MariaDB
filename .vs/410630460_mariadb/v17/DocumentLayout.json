@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\410630460_mariadb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\410630460_mariadb\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\410630460_mariadb\\frontend\\index_v1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\index_v1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\410630460_mariadb\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\410630460_mariadb\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-16T16:48:59.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "index_v1.html",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\410630460_mariadb\\frontend\\index_v1.html",
               "RelativeDocumentMoniker": "frontend\\index_v1.html",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\410630460_mariadb\\app.js",
               "RelativeDocumentMoniker": "app.js",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "app.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-10T20:04:35.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T20:04:35.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\410630460_mariadb\\package.json",
               "RelativeDocumentMoniker": "package.json",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\410630460_mariadb\\frontend\\index.html",
               "RelativeDocumentMoniker": "frontend\\index.html",
@@ -88,12 +104,11 @@
               "RelativeToolTip": "frontend\\index.html",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-10T19:00:48.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T19:00:48.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\410630460_mariadb\\backend\\app.js",
               "RelativeDocumentMoniker": "backend\\app.js",
@@ -101,12 +116,11 @@
               "RelativeToolTip": "backend\\app.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-10T19:00:35.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T19:00:35.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "package-lock.json",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\410630460_mariadb\\package-lock.json",
               "RelativeDocumentMoniker": "package-lock.json",
@@ -118,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "database.js",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\410630460_mariadb\\backend\\database.js",
               "RelativeDocumentMoniker": "backend\\database.js",
